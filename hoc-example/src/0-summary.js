@@ -1,0 +1,1 @@
+const EnhancedComponent = higherOrderComponent(WrappedComponent);
