@@ -1,3 +1,8 @@
+---
+title: React Component
+order: 1
+category: React
+---
 React Component接收数据输入，并返回用于界面需要显示的元素
 
 ### Function Style定义
